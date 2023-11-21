@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFATest", "MFATest\MFATest.csproj", "{D77B5BD3-B843-40B1-8F66-811A4271E502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77B5BD3-B843-40B1-8F66-811A4271E502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77B5BD3-B843-40B1-8F66-811A4271E502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77B5BD3-B843-40B1-8F66-811A4271E502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77B5BD3-B843-40B1-8F66-811A4271E502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75D2ED99-DC0C-49FE-93AC-240C3008350F}
+	EndGlobalSection
+EndGlobal
